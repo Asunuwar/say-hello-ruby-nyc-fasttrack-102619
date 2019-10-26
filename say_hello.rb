@@ -1,4 +1,4 @@
-def intro
+def say_hello
  puts "Gabriela"
  end
 intro
