@@ -1,7 +1,6 @@
-
 def say_hello
 
- puts "Gabriela"
+ puts "Hello Gabriela"
  end
 say_hello
 
