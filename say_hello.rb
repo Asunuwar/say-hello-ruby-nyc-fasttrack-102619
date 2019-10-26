@@ -1,7 +1,7 @@
-def say_hello
- puts "Gabriela"
+def say_hello( Gabriela)
+ puts "Hello"
  end
-intro
+say_hello
 
 
 # Build your say_hello method here
